@@ -6,12 +6,12 @@ console.log(arr);
 // If you want to know  difference between 
 // slice and splice method,then plese run this code 
 
-// const arr1=arr.slice(0,3);
-// console.log(arr1);
-// console.log(arr);
-// const arr2=arr.splice(0,3);
-// console.log(arr2);
-// console.log(arr)
+const arr1=arr.slice(0,3);
+console.log(arr1);
+console.log(arr);
+const arr2=arr.splice(0,3);
+console.log(arr2);
+console.log(arr)
 
 // push and pop method 
 // push method use to add the element end of the array
